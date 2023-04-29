@@ -1,0 +1,73 @@
+{
+    "Music": [
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "The Beatles"},
+                  "SongTitle": {"S": "Here Comes The Sun"},
+                  "AlbumTitle": {"S": "Abbey Road"},
+                  "SongYear": {"S": "1969"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "The Beatles"},
+                  "SongTitle": {"S": "Come Together"},
+                  "AlbumTitle": {"S": "Abbey Road"},
+                  "SongYear": {"S": "1969"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "The Beatles"},
+                  "SongTitle": {"S": "Let It Be"},
+                  "AlbumTitle": {"S": "Let It Be"},
+                  "SongYear": {"S": "1970"}
+                }
+            }
+        },
+        {
+          "PutRequest": {
+              "Item": {
+                "Artist": {"S": "The Beatles"},
+                "SongTitle": {"S": "Get Back"},
+                "AlbumTitle": {"S": "Let it be"},
+                "SongYear": {"S": "1970"}
+              }
+          }
+        },
+        {
+          "PutRequest": {
+              "Item": {
+                "Artist": {"S": "Daft Punk"},
+                "SongTitle": {"S": "The Game Of Love"},
+                "AlbumTitle": {"S": "Random Access Memories"},
+                "SongYear": {"S": "2013"}
+              }
+          }
+        },
+        {
+          "PutRequest": {
+              "Item": {
+                "Artist": {"S": "Daft Punk"},
+                "SongTitle": {"S": "Get Lucky"},
+                "AlbumTitle": {"S": "Random Access Memories"},
+                "SongYear": {"S": "2013"}
+              }
+          }
+        },
+        {
+          "PutRequest": {
+              "Item": {
+                "Artist": {"S": "The Strokes"},
+                "SongTitle": {"S": "Selfless},
+                "AlbumTitle": {"S": "The New Abnormal"},
+                "SongYear": {"S": "2020"}
+              }
+          }
+        }
+      ] 
